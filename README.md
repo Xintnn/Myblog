@@ -1,2 +1,2 @@
-# xintn.github.io
+# xintn.net
 博客开源
